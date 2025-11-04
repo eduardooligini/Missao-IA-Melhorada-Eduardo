@@ -90,14 +90,14 @@ const perguntas = [
                 texto: "   Prefiro seguir processos e protocolos bem definidos, com metas claras e objetivos organizados.",
                 afirmacao: [
                     " Sua preferência por ambientes organizados sugere que você é ideal para áreas administrativas, finanças ou logística.",
-                    ""
+                    "Você prospera em ambientes que valorizam a ordem e a previsibilidade, como gestão de operações, contabilidade ou recursos humanos."
                 ]
             },
             {
                 texto: " Prefiro um ambiente de trabalho mais flexível, onde eu possa explorar novas abordagens e criar soluções fora da caixa.",
                 afirmacao: [
                     " Você se adapta bem a ambientes inovadores e pode se destacar em áreas criativas, design ou empreendedorismo.",
-                    ""
+                    "Sua habilidade em lidar com incertezas e encontrar soluções criativas torna você uma excelente opção para funções em startups, marketing criativo ou desenvolvimento de produtos."
                 ]
             }
         ]
@@ -109,14 +109,14 @@ const perguntas = [
                 texto: "  Me vejo liderando, motivando a equipe e sendo responsável por guiar o grupo em direção aos objetivos.",
                 afirmacao: [
                     " Seu perfil de liderança é perfeito para gestão de equipes, empresas ou consultoria. Você tem o potencial para coordenar projetos e liderar mudanças.",
-                    ""
+                    "Sua habilidade de inspirar e direcionar equipes faz de você uma excelente opção para cargos de gestão em áreas como vendas, marketing, ou liderança de projetos."
                 ]
             },
             {
                 texto: "Prefiro seguir orientações de um líder, contribuindo com meu trabalho para o sucesso coletivo.",
                 afirmacao: [
                     "Sua capacidade de ser um ótimo colaborador é ideal para funções técnicas ou especializadas, como engenharia, pesquisa ou TI.",
-                    ""
+                    "Você se destaca como um especialista técnico, contribuindo com seu conhecimento profundo e apoio a líderes em áreas como desenvolvimento de software, pesquisa científica ou design gráfico."
                 ]
             }
         ]
